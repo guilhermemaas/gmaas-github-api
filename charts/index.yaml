@@ -3,10 +3,10 @@ entries:
   gmaas-github-api:
   - apiVersion: v2
     appVersion: 2.0.1
-    created: "2023-01-15T20:34:02.117099227Z"
+    created: "2023-01-15T20:39:43.396268164Z"
     description: An API developed in Python/Flask, its purpose is to extract some
       useful information from the GitHub API.
-    digest: f9009d55a04ea18effd94c6a36294472ce6fb03724534817a2b5144aeec18ef2
+    digest: c58e05095cd556737ce17e07478c766142bdcd0f45858760be594317fd8591e1
     name: gmaas-github-api
     type: application
     urls:
@@ -34,4 +34,4 @@ entries:
     urls:
     - https://guilhermemaas.github.io/gmaas-github-api/charts/gmaas-github-api-0.99.0.tgz
     version: 0.99.0
-generated: "2023-01-15T20:34:02.115745515Z"
+generated: "2023-01-15T20:39:43.394927671Z"
